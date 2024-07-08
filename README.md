@@ -1,8 +1,7 @@
-## Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Carlos</h1>
 
-<h3 align="center">A passionate frontend developer from Colombia</h3>
+<h3 align="center">A passionate bakend developer from Colombia</h3>
 <img src="https://i.imgur.com/sqv6fST.png" />
 - 🌱 I’m currently learning **Java , Php , Javascript y misql**
 

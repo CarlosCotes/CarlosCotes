@@ -3,7 +3,7 @@
 
 <h3 align="center">A passionate bakend developer from Colombia</h3>
 <img src="https://i.imgur.com/sqv6fST.png" />
-- 🌱 I’m currently learning **Java , Php , Javascript y misql**
+- 🌱 I’m currently learning **Java , Php , Javascript , Misql and mongodb**
 
 - 📫 How to reach me **carlosscotess@gmail.com**
 
